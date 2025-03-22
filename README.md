@@ -9,13 +9,11 @@
 
 【周六晚上聊书】 20:00-21:00
 
-电脑上用网页版，不用下载应用程序，搜https://teams.live.com/，
-
-然后用邮箱登录或注册。
+电脑上用网页版，不用下载应用程序，搜https://teams.live.com/，然后用邮箱登录或注册。
 
 手机上到应用店下载Teams（国内应用店）；或Microsoft Teams（谷歌应用店）。
 
-参加聊天会议，可在电脑或手机上粘贴下面链接点击进入：
+参加会议，可在电脑或手机上粘贴下面链接点击进入：
 
 https://teams.live.com/meet/9323571296435?p=ccAuxEU051Ld8YrW6B&eventType=community
 
