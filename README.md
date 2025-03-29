@@ -9,19 +9,7 @@
 
 【周六晚上聊书】 20:00-21:00
 
-电脑上用网页版，不用下载应用程序，搜https://teams.live.com/，然后用邮箱登录或注册。
-
-手机上到应用店下载Teams（国内应用店）；或Microsoft Teams（谷歌应用店）。
-
-参加会议，可在电脑或手机上粘贴下面链接点击进入：
-
-https://teams.live.com/meet/9323571296435?p=ccAuxEU051Ld8YrW6B&eventType=community
-
-或先加我，注意用户名和邮箱一致。
-
-用户名：杨原平（电脑上显示） ，原平 杨（手机上显示）
-
-邮箱：yyp22cb@outlook.com
+[【周六晚上聊书】流程介](2025032901.md)
 
 
 ## 查经
